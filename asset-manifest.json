@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DREADEYE-XD/shreyansht.github.io/static/css/main.4c72c50c.css",
+    "main.js": "/DREADEYE-XD/shreyansht.github.io/static/js/main.24512d04.js",
+    "index.html": "/DREADEYE-XD/shreyansht.github.io/index.html",
+    "main.4c72c50c.css.map": "/DREADEYE-XD/shreyansht.github.io/static/css/main.4c72c50c.css.map",
+    "main.24512d04.js.map": "/DREADEYE-XD/shreyansht.github.io/static/js/main.24512d04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c72c50c.css",
+    "static/js/main.24512d04.js"
+  ]
+}
