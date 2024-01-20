@@ -1,0 +1,55 @@
+.project-container{
+    margin-bottom: 20px;
+}
+
+.img-container {
+    position: relative;
+}
+.projectImgContainer{
+    overflow: hidden;
+    border-radius: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.projectImg{
+    display: block;
+}
+
+.projectImgContainer img{
+    border-radius: 15px;
+}
+
+.hoverTextContainer{
+    height: 350px;
+    width: 680px;
+    display: flex;
+    position: absolute;
+    z-index: 5;
+    border-radius: 15px;
+    top: 49.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: opacity 0.2s ease-in-out;
+    backdrop-filter: blur(7px);
+    opacity: 0;
+    font-size: 10px;
+}
+
+.hoverTextContainer a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    color: aliceblue;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+}
+
+.hoverTextContainer img{
+    margin-left: 5px;
+}
+
+.img-container:hover .hoverTextContainer {
+    opacity: 1;
+}

@@ -1,0 +1,35 @@
+.name-cont{
+    justify-self: left;
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+}
+
+.name-cont h1{
+    font-size: 60px;
+    font-family: "DM Serif Display", sans-serif;
+}
+
+.name-cont h2{
+    font-size: 45px;
+    font-family: "DM Serif Display", sans-serif;
+    color: #333333;
+}
+
+.name-cont p{
+    font-size: 18px;
+    width: 500px;
+    font-family: "Raleway", sans-serif;
+    color: #605f5f;
+}
+
+.name-cont .btns{
+    display: flex;
+}
+
+.btns a{
+    background-color: transparent;
+    border: none;
+    padding: 5px;
+}
+

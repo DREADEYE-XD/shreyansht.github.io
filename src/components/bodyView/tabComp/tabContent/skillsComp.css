@@ -1,0 +1,24 @@
+.skills-container{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(6, 90px);
+    grid-template-rows: 50px repeat(2, 80px) 50px 150px;
+    width: 100%;
+}
+
+.skills-container h3 {
+    font-family: "Quicksand", sans-serif;
+    font-size: 30px;
+    width: 100%;
+    font-weight: 500;
+}
+
+.skills-container .header1 {
+    grid-column: span 6;
+    justify-self: left;
+    align-self: center;
+}
+.skills-container img{    
+   justify-self: center;
+   align-self: center;
+}

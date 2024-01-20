@@ -1,0 +1,29 @@
+:root {
+  --background: #005;
+  --primary: #88d5bf;
+  --secondary: #5d6bf8;
+  --third: #e27fcb;
+  --body-bg-color: #ffffff;
+  --body-text-color: #000000;
+}
+
+.body-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 500px 100%;
+  align-items: stretch;
+  justify-items: stretch;
+  justify-self: center;
+  
+}
+.topRow {
+  justify-items: center;
+  align-items: center;
+  grid-column: span 2;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  width: 100%;
+  background-color: var(--body-bg-color);
+}
+
