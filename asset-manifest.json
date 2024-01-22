@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shreyansht.github.io/static/css/main.4c72c50c.css",
-    "main.js": "/shreyansht.github.io/static/js/main.24512d04.js",
+    "main.js": "/shreyansht.github.io/static/js/main.e05d3147.js",
     "index.html": "/shreyansht.github.io/index.html",
     "main.4c72c50c.css.map": "/shreyansht.github.io/static/css/main.4c72c50c.css.map",
-    "main.24512d04.js.map": "/shreyansht.github.io/static/js/main.24512d04.js.map"
+    "main.e05d3147.js.map": "/shreyansht.github.io/static/js/main.e05d3147.js.map"
   },
   "entrypoints": [
     "static/css/main.4c72c50c.css",
-    "static/js/main.24512d04.js"
+    "static/js/main.e05d3147.js"
   ]
 }
