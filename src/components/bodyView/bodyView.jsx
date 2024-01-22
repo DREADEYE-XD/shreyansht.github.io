@@ -5,28 +5,30 @@ import ImgComp from "./imgComp/imgComp";
 import TabComp from "./tabComp/tabComp";
 
 //Global definitions to change the name or images easily
-const dp = "https://dreadeye-xd.github.io/shreyansht.github.io/images/dp.jpg";
+const path = "https://dreadeye-xd.github.io/shreyansht.github.io";
+const dp = `${path}/images/dp.jpg`;
 const fullName = "Shreyansh Tripathy";
 const subHeading = "Hi, I'm";
 const about =
   "I'm a full stack developer based in Uttar Pradesh, India.";
-const linkedInLogo = "./icons/linkedin.png";
-const githubLogo = "./icons/github.png";
+  
+const linkedInLogo = `${path}/icons/linkedin.png`;
+const githubLogo = `${path}/icons/github.png`;
 const linkToLinkedIn = "https://www.linkedin.com/in/shreyansh-tripathy-9ba6ba225/";
 const linkToGit = "https://github.com/DREADEYE-XD/WebDevCourse.git"; 
 
-const reactImg = "./icons/react.png";
-const apiImg = "./icons/api.png";
-const cssImg = "./icons/css.png";
-const htmlImg = "./icons/html-5.png";
-const nodeImg = "./icons/nodejs.png";
-const sqlImg = "./icons/sql-server.png";
-const expressImg = "./icons/expressjs.png";
-const pythonImg = "./icons/python.png";
-const gptImg = "./icons/gpt.png";
-const mongoImg = "./icons/mongodb.png";
-const npmImg = "./icons/npm.png";
-const gitImg = "./icons/git.png";
+const reactImg = `${path}/icons/react.png`;
+const apiImg = `${path}/icons/api.png`;
+const cssImg = `${path}/icons/css.png`;
+const htmlImg = `${path}/icons/html-5.png`;
+const nodeImg = `${path}/icons/nodejs.png`;
+const sqlImg = `${path}/icons/sql-server.png`;
+const expressImg = `${path}/icons/expressjs.png`;
+const pythonImg = `${path}/icons/python.png`;
+const gptImg = `${path}/icons/gpt.png`;
+const mongoImg = `${path}/icons/mongodb.png`;
+const npmImg = `${path}/icons/npm.png`;
+const gitImg = `${path}/icons/git.png`;
 
 const BodyView = () => {
   return (
