@@ -5,7 +5,7 @@ import ImgComp from "./imgComp/imgComp";
 import TabComp from "./tabComp/tabComp";
 
 //Global definitions to change the name or images easily
-const dp = "/images/dp.jpg";
+const dp = "https://dreadeye-xd.github.io/shreyansht.github.io/images/dp.jpg";
 const fullName = "Shreyansh Tripathy";
 const subHeading = "Hi, I'm";
 const about =
